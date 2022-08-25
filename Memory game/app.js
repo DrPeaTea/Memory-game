@@ -44,11 +44,11 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       name: "drink",
-      img: "images/philip.png",
+      img: "images/drink.png",
     },
     {
-      name: "Drink",
-      img: "images/philip.png",
+      name: "drink",
+      img: "images/drink.png",
     },
   ];
   cardArray.sort(() => 0.5 - Math.random());
